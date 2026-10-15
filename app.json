@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Little Lemon",
+    "slug": "little-lemon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#F4CE14" } },
+    "plugins": [
+      ["expo-image-picker", { "photosPermission": "Allow Little Lemon to access your photos to set an avatar." }]
+    ]
+  }
+}
